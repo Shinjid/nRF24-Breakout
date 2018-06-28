@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name nRF24_footprints)(type KiCad)(uri "$(KIPRJMOD)/nRF24_footprints.pretty")(options "")(descr ""))
+  (lib (name graphics)(type KiCad)(uri "$(KIPRJMOD)/graphics.pretty")(options "")(descr ""))
+  (lib (name newLogo)(type KiCad)(uri "$(KIPRJMOD)/newLogo.pretty")(options "")(descr ""))
+  (lib (name revLogo)(type KiCad)(uri "$(KIPRJMOD)/revLogo.pretty")(options "")(descr ""))
+  (lib (name logo3)(type KiCad)(uri "$(KIPRJMOD)/logo3.pretty")(options "")(descr ""))
+)
